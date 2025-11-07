@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: rgba(5, 19, 211, 0.459);">
+        <style>
+      .flex{
+        display: flex;
+    }
+      .row{
+         flex-direction: row;
+    }
+      .justify{
+        justify-content: start;
+    }
+      .mg{
+        margin: 10px;
+    }
+      .mgt{
+        margin-top: 20px;
+    }
+      *{
+        border: 1px solid rgb(0, 0, 0);
+    }
+      .huanhang{
+        flex-wrap: wrap;
+    }
+      .flex1{
+        flex: 1;
+    }
+      .flex3{
+        flex: 3;
+    }
+      .heise{
+        background-color: rgba(0, 0, 0, 0.589);
+    }
+      .fense{
+        background-color: rgba(255, 136, 154, 0.801);
+    }
+      .zise{
+        background-color: rgba(137, 43, 226, 0.308);
+    }
+      .columu{
+        flex-direction: column ;
+    }
+      .mgr{
+        margin-right: 8px;
+    }
+      .mgl{
+        margin-left: 8px;
+    }
+      .wrap{
+        flex-wrap: wrap;
+    }
+      .qingse{
+        background-color: rgba(127, 255, 212, 0.521);
+    }
+      .center{
+        text-align: center;
+    }
+      .end{
+        justify-content: flex-end;
+      }
+      .aling{
+        align-items: flex-end;
+      }
+      .aling-center{
+        align-items: center;
+      }
+      </style>
+      <div class="flex columu aling-center" style="text-align: center;">
+        <div style="height: 200px; background-color: rgba(112, 54, 247, 0.74); width: 90%; text-align: center;" class="flex mgt aling-center ">
+          <img src="
+          https://ts4.tc.mm.bing.net/th/id/OIP-C.cZnq4B-heHMxRcbCx6fKXgHaH9?rs=1&pid=ImgDetMain&o=7&rm=3"
+           style="margin-left: 43.5%; height: 100%;">
+        </div>
+        <div class="mgt mg" style="height: 400px; width: 100%;">
+          <div class="flex columu mgt mg" style="height: 300px; background-color: rgba(196, 197, 255, 0.753); font-size: 60px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+            你们跟地下室过不去了喵！！！Evil要反将一军，把你们关在地下室喵！Evil也要你们体验一下被关在地下室的感觉喵！
+          </div>
+        </div>
+      </div>
+      <div style="height: 400px; background-color: rgba(112, 54, 247, 0.74);" class="aling end flex">
+        <img src="
+        https://i.pixiv.re/img-master/img/2025/08/01/17/02/52/133358871_p0_master1200.jpg" style="height: 400px; margin-right: 25%; width: 500px;">
+      <div style="background-color: rgb(127, 255, 238); font-size: 25px;">
+        <a href="
+        https://1899854621.github.io/one/panduanti2.html">点击返回继续作答</a>
+      </div>
+      </div>
+      </div>
+</body>
+</html>
